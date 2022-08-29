@@ -5,4 +5,5 @@
     <string name="open_activity_a">Open ActivityA</string>
     <string name="close_activity_c">Close ActivityC</string>
     <string name="close_stack">Close Stack</string>
+    <string name="open_activity_d">Open ActivityD</string>
 </resources>
